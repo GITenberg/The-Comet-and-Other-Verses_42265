@@ -1,0 +1,30 @@
+_repo: The-Comet-and-Other-Verses_42265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42265-h/images/epub_cover.jpg
+creator:
+  author:
+    agent_name: Dix, Irving Sidney
+    birthdate: 1880
+    deathdate: 1948
+    gutenberg_agent_id: '41607'
+    url: http://www.gutenberg.org/2009/agents/41607
+description: Pennsylvania-born poet and journalist Irving Sidney Dix published a number
+  of collections over the course of his literary career. The volume The Comet and
+  Other Verses highlights Dix's ability to plumb the depths of everyday experiences
+  and find profound meaning. Fans of traditional verse will appreciate these well-wrought
+  poems.
+gutenberg_issued: '2013-03-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry'
+- !lcc 'PS'
+title: The Comet, and Other Verses
+url: http://www.gutenberg.org/ebooks/42265
